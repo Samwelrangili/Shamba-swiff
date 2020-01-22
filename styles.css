@@ -1,0 +1,51 @@
+header{
+    color: blueviolet;
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color: chartreuse;
+    length: 100px;
+    height: 250px;
+}
+ul>li{
+    display:inline-block;
+    padding: 10px;
+}
+.decoration{
+    font-size: 25px;
+}
+footer #five{
+    float:left;
+}
+table{
+    width: 500px;
+}
+h6>p{
+    text-align: center;
+}
+.info{
+    background-color: skyblue;
+    text-align: center;
+}
+#gallary{
+    font-size: 40px;
+    background-size: 50px;
+    background-color: violet;
+}
+.info{
+    padding: 2px;
+    text-transform: initial;
+}
+table{
+    width: 1200px;
+}
+h6{
+font-size: 20px;
+}
+.img{
+    padding: 150px;
+}
+.container{
+    overflow: hidden;
+}
+
+

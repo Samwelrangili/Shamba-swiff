@@ -6,7 +6,7 @@ header{
     length: 100px;
     height: 250px;
     font-family: 'Nunito Sans', sans-serif;
-
+    cursor: pointer;
 }
 ul>li{
     display:inline-block;
@@ -48,6 +48,6 @@ font-size: 20px;
 }
 .container{
     overflow: hidden;
+    text-align: center;
 }
-
 
